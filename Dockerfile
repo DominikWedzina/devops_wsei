@@ -1,4 +1,4 @@
-# Pobranie obrazu bazowego Node.js
+# Pobranie obrazu bazowego node.js
 FROM node:18-alpine
 
 # Ustawienie katalogu roboczego w kontenerze
